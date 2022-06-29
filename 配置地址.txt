@@ -1,5 +1,0 @@
-https://raw.githubusercontent.com/meinvtuzai/TVBox/master/mj.json
-
-https://raw.githubusercontent.com/meinvtuzai/TVBox/master/semao.json
-
-https://raw.githubusercontent.com/meinvtuzai/TVBox/master/xp.json
